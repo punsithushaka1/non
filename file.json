@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Dialog Router Zoom         8.20 TB Used          🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@zoom.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=free.slcatehiteam.shop&type=ws&sni=free.slcatehiteam.shop#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "Dialog Sim Zoom (NO GB LIMIT)        🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@104.26.7.235:443?path=%2F&security=tls&encryption=none&host=free.slcatehiteam.shop&type=ws&sni=free.slcatehiteam.shop#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "Dialog Sim Zoom (NO GB LIMIT) test Admin Only       🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@104.21.235.35:443?path=%2F&security=tls&encryption=none&host=free.slcatehiteam.shop&type=ws&sni=free.slcatehiteam.shop#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": true,
+    "allowedDeviceId": 2caf7356d8b56b80
+  },
+  {
+    "name": "Mobitel Zoom                	224.48 GB Used         🧾",
+    "config": "vless://34f48825-9be0-4275-acfe-4949bb16a916@mktossl.com:2096?path=%2F&security=tls&encryption=none&host=free.slcatehiteam.shop&type=ws&sni=free.slcatehiteam.shop#8ryjlld1",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+   {
+    "name": "SLT Router Zoom                	         🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@free.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=zoom.com&type=ws&sni=zoom.com#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },     
+  {
+    "name": "Mobitel Zero                          🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@free.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=trumpacquittal.com&type=ws&sni=trumpacquittal.com#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": true,
+    "allowedDeviceId": 2caf7356d8b56b80
+  },      
+  {
+    "name": "Dialog 348/132   -   100GB(62.75 GB USED) LIMITED   🧾",
+    "config": "vmess://eyJhZGQiOiJ3b20uY28iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNyYXp5b3duZXIubGsiLCJpZCI6ImE3NjE0ZjhmLTcyNDUtNDMwZS1hY2I3LWMzMTQ0ODU2NzkxNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkZhc3RseWNyYXp5LWFwcC1jb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "HUTCH GAMING                         🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@free.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=callofduty.com&type=ws&sni=callofduty.com#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "ALL WHATSAPP                         🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@free.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=whatsapp.com&type=ws&sni=whatsapp.com#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "ALL FACEBOOK                         🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@free.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=facebook.com&type=ws&sni=facebook.com#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "ALL YOUTUBE                          🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@free.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=m.youtube.com&type=ws&sni=m.youtube.com#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "Airtel 498                           🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@free.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=fbcdn.com&type=ws&sni=fbcdn.com#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "Hutch 169                            🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@free.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=telegram.me&type=ws&sni=telegram.me#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "Hutch zoom                           🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@hutch-zoom.slcatehiteam.shop:443?path=%2F&security=tls&encryption=none&host=free.slcatehiteam.shop&type=ws&sni=free.slcatehiteam.shop#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "Hutch Zero                           🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@172.67.160.127:443?path=%2F&security=tls&encryption=none&host=free.slcatehiteam.shop&type=ws&sni=free.slcatehiteam.shop#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  },
+  {
+    "name": "Airtel Zoom                          🧾",
+    "config": "vless://17d7edbb-756e-4457-9a73-3ae564340021@support.zoom.us:443?path=%2F&security=tls&encryption=none&host=free.slcatehiteam.shop&type=ws&sni=free.slcatehiteam.shop#Free+Config-SL+CAT+EHI+TEAM",
+    "requiresDeviceId": false,
+    "allowedDeviceId": null
+  }
+]
